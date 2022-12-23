@@ -3,9 +3,9 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "https://www.epfl.ch/wp/5.5/wp-content/themes/wp-theme-2018/assets/svg/epfl-logo.svg?refresh\u003dnow",
-    "link": "https://www.epfl.ch/en/",
-    "text": "Alexander Popescu"
+    "file": "",
+    "link": "",
+    "text": "ADAcadabra"
   },
   "text": {
     "more": "The network is clustered by 4 clusters",
