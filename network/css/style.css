@@ -193,29 +193,18 @@ font-size:14px;
 	bottom:0;
 }
 
-#jisc {
-width: 71px;
-height: 56px;
-background-image: url('../images/jisc-logo-small.png');
-background-repeat: no-repeat;
-display:inline-block;
-}
 
-#jisc span {
-	display:none;
-}
-
-#oii {
+#epfl {
 width: 227px;
 height: 56px;
-background-image: url('../images/oii_text.png');
+background-image: url('../images/epfl.png');
 background-repeat: no-repeat;
 display:inline-block;
 margin-right:10px;
 
 }
 
-#oii span {
+#epfl span {
 	display:none;
 }
 
